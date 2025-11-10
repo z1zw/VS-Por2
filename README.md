@@ -1,7 +1,7 @@
-# 🧪 BLWP Visual Analytics
+# BLWP Visual Analytics
 
 
 ## Run:
 
-streamlit run app.py
+### streamlit run app.py
 
